@@ -1,1 +1,1 @@
-welcome to git .  this is my second try . delete this 
+welcome to git .  this is my second try . 
