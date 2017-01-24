@@ -1,1 +1,3 @@
-welcome to git .  this is my second try . 
+welcome to git .  this is my second try .  
+
+hello welcome to github
